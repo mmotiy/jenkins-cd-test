@@ -6,7 +6,7 @@ pipeline {
                 echo 'Hello world!From Github commit to test jenkins auto build' 
                 echo 'second commit to trigger jenkins auto build'
                 echo 'again to commit'
-		echo 1+1
+		echo 'what happen'
             }
         }
     }
